@@ -25,7 +25,7 @@ A project to explore, visualize, and build a predictive model using Flipkart pro
 
 ## 📌 Author
 
-Affan Sayyed – AIML Student passionate about Data Science and AI  
+Affan Saiyed – AIML Student passionate about Data Science and AI  
 📫 Reach me: [www.linkedin.com/in/muhammed-affan-saiyed-a61362314]
 
 ---
